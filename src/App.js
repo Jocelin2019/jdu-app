@@ -19,6 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+Apprentissage de React JS JD
+
+      </div>
+
     </div>
   );
 }
