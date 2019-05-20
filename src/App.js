@@ -20,7 +20,8 @@ function App() {
         </a>
       </header>
       <div>
-Apprentissage de React JS JD
+Apprentissage de React JS JD 
+MOD
 
       </div>
 
