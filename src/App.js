@@ -19,7 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
-    
+      <div>
+        Je puis tout par celui qui me sanctifie!
+      </div>
     </div>
   );
 }
